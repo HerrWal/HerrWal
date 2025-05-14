@@ -1,6 +1,6 @@
 ![Portada_Likenid_Low](https://github.com/user-attachments/assets/d8dee42a-c4b3-43d9-9076-95c7c8573484)
 
-<h1>Hi, 🙋‍♂️I'm Juan, an <a href="https://www.linkedin.com/in/juan-herrerawal/">IT Professional</a>☺ based out of the coastal metropolis of Miami. I consider myself a hard worker, a quick learner, and a good communicator.</h1>
+<h1> 🙋‍♂️Hi, I'm Juan, an <a href="https://www.linkedin.com/in/juan-herrerawal/">IT Professional</a>☺ based out of the coastal metropolis of Miami. I consider myself a hard worker, a quick learner, and a good communicator.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
