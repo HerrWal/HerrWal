@@ -5,8 +5,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/HerrWal/osticket-prereqs) ✨New Project✨
-  - [osTicket: Post-Installation Configuration](https://github.com/HerrWal/post-install-config) (Comming Soon)
+  - [osTicket: Prerequisites and Installation](https://github.com/HerrWal/osticket-prereqs) 
+  - [osTicket: Post-Installation Configuration](https://github.com/HerrWal/post-install-config) ✨New Project✨
   - [osTicket: Ticket Lifecycle Examples](https://github.com/HerrWal/ticket-lifecycle) (Comming Soon)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/HerrWal/configure-ad) (Comming Soon)
