@@ -10,8 +10,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/HerrWal/ticket-lifecycle) 
 - <b>Microsoft Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/HerrWal/configure-ad) ✨New Project✨
-  - [Installing and Deploying Active Directory](https://github.com/HerrWal/deploy-ad) (Coming Soon)
-  - [Creating Users with PowerShell](https://github.com/HerrWal/creating-users-PowerShell-ad) (Coming Soon)
+  - [Deploying Active Directory and Creating Users with PowerShell](https://github.com/HerrWal/deploy-ad) (Coming Soon)
   - [Group Policy and Managing Accounts](https://github.com/HerrWal/group-policy-ad) (Coming Soon)
   
 - <b>Microsoft Azure</b>
